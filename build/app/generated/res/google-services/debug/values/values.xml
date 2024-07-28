@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">898991991159</string>
+    <string name="google_api_key" translatable="false">AIzaSyCmFLnUT2cvkNp1B_ktl6PgSX25sx4hACs</string>
+    <string name="google_app_id" translatable="false">1:898991991159:android:d4e056571b1082321b5972</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCmFLnUT2cvkNp1B_ktl6PgSX25sx4hACs</string>
+    <string name="google_storage_bucket" translatable="false">tarea4-odlm5j.appspot.com</string>
+    <string name="project_id" translatable="false">tarea4-odlm5j</string>
+</resources>
